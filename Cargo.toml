@@ -1,0 +1,8 @@
+[package]
+name = "quuid"
+version = "0.1.0"
+authors = ["tehAnswer <sergiorodriguezgijon@gmail.com>"]
+
+[dependencies]
+uuid = { version = "0.7", features = ["v4"] }
+clipboard = "0.5.0"
