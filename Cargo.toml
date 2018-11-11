@@ -2,6 +2,8 @@
 name = "quuid"
 version = "0.1.0"
 authors = ["tehAnswer <sergiorodriguezgijon@gmail.com>"]
+license = "MIT"
+description = "QUick UUID generator that digs your clipboard."
 
 [dependencies]
 uuid = { version = "0.7", features = ["v4"] }
